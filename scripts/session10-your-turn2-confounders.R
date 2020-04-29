@@ -25,3 +25,5 @@ b3 <- 2.7
 
 dat <- dat %>% 
   mutate(y = a + b1 * x1 + b2 * x2 + b3 * z + e)
+
+# this is my attempt
